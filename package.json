@@ -2,7 +2,7 @@
   "name": "frontend_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://sha22-2001.github.io/Shayan-Portfolio", 
+  "homepage": "https://github.com/sha22-2001/Shayan-Portfolio.git",
   "dependencies": {
     "@sanity/client": "^5.4.2",
     "@sanity/image-url": "^1.0.2",
